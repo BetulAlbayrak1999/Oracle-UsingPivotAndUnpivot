@@ -25,7 +25,7 @@ QUANTITY FOR PRODUCT_CODE IN (PRODUCT_CODE_A AS 'A', PRODUCT_CODE_B AS 'B', PROD
 
 
 
---unpivot denemesi --calismiyor bu
+--unpivot denemesi 
  SELECT *
  FROM DATA_ACCOUNT_PRODUCT_COPY
  UNPIVOT 
